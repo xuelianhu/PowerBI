@@ -1,6 +1,6 @@
 # Power BI Project
-## Welcome Power BI world. Here're my self-improvement visulisation projects.
-### Overlapping histogram with normal distribution curve-Penguins body mass by Sex
+## Here're my self-improvement visualisation projects using Power BI(Power Query, DAX, M Language).
+### 1.Overlapping histogram with normal distribution curve-Penguins body mass by Sex
 **Introduction**
 
 Overlapping histograms with normal curve overlays are used to compare the distribution of a numerical variable across different groups such as male and female body mass. With this,we can glance the central tendency, spread, and skewness of the data within each group and also how well the data follows a normal distribution. The further apart the modes of distribution, the more significant the differences between groups.
