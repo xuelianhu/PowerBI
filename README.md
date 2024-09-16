@@ -18,4 +18,6 @@ Overlapping histograms with normal curve overlays are used to compare the distri
 
 **Dashboard Report**
 
+The dashboard can be found in Power BI Public [here](https://app.powerbi.com/groups/me/reports/9bc3803a-c316-4435-a8c7-c65199040b46/ReportSectiond37320fe010d5870b59a?experience=power-bi). This dashboard enables users to filter by the count of bins, and focuses on the distribution of body mass across sex groups(Male and Female).
+
 <img width="1096" alt="Screenshot 2024-09-16 at 15 31 53" src="https://github.com/user-attachments/assets/baa5fabb-c0c2-4889-99fa-333dd85600dd">
