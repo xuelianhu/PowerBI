@@ -51,3 +51,25 @@ The dashboard can be found in Power BI Public [here](https://app.powerbi.com/gro
 <img width="1141" alt="Screenshot 2024-09-17 at 07 32 37" src="https://github.com/user-attachments/assets/34209c74-e14f-47b3-9e5c-c5ce39a15fc8">
 
 
+### Current Year Project Budget Analysis
+
+**Introduction**
+
+Have you ever wanted to filter a visual by selecting a range of values for a measure? You may have found that you cannot populate a slicer with a measure. 
+So this project, i focuse on generating a report that shows project expenses and budgets. I want users to be able to filter the list of project to only those which have expenses,budget and budget percent used within my selected range. 
+
+**Processes**
+
+- Create three tables in DAX that contains a column with values I can use to populate the slicer: Expenses,Budget and Budget percent used.
+- Create a slicer for expense amount that allows selection of values from 0 to 2000. 
+- Create a slicer for budget amount that allows selection of values from 0 to 2000. 
+- Create a slicer for budget percent used that allows selection of values from 0 to 200%.
+- Create DAX measures to filter the list of project which meet users'needs.
+- Create a table that contains the Project Name, Total Expense amount, Budget amount, and % of Budget amount.
+- Add an SVG to show a horizontal lipstick chart comparison of expense vs budget.
+
+**Dashboard Report**
+
+The dashboard can be found in Power BI Public [here](https://app.powerbi.com/view?r=eyJrIjoiNGRiMTMyYTQtYTQwOC00M2Y1LWJlOWMtMjIzZTYyOGI4NzhmIiwidCI6IjZmMGJiNzJmLTUzNzctNGRkZi05MzZhLWI2YzcyYmYyMWFlMiIsImMiOjF9)
+
+<img width="867" alt="Screenshot 2024-09-18 at 16 55 18" src="https://github.com/user-attachments/assets/b0dc6ea4-de66-4c8f-a39f-89d9a895f9e9">
